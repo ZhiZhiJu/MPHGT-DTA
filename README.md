@@ -1,7 +1,7 @@
 # MPHGT-DTA
 MPHGT-DTA: A multimodal deep learning framework for drug-target affinity prediction
 # Dataset
-The data that has already been processed comes from:https://github.com/zhaolongNCU/PocketDTA/tree/main/dataset
+The data that has already been processed comes from: https://github.com/zhaolongNCU/PocketDTA/tree/main/dataset
 # Run Code
 python main.py
 # Requirements
